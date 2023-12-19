@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: intrinsic
+Version: 0.0.1
+Summary: a package containing to the code for the paper "Intrinsic Image Decomposition via Ordinal Shading"
+Home-page: 
+Author: Chris Careaga
+Author-email: chris_careaga@sfu.ca
+Requires-Python: >3.6
+License-File: LICENSE

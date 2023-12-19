@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+intrinsic/__init__.py
+intrinsic/decompose.py
+intrinsic/model_util.py
+intrinsic/ordinal_util.py
+intrinsic/pipeline.py
+intrinsic.egg-info/PKG-INFO
+intrinsic.egg-info/SOURCES.txt
+intrinsic.egg-info/dependency_links.txt
+intrinsic.egg-info/requires.txt
+intrinsic.egg-info/top_level.txt

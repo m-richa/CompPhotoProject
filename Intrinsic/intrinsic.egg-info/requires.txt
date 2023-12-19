@@ -1,0 +1,2 @@
+altered_midas@ git+https://github.com/CCareaga/MiDaS@master
+chrislib@ git+https://github.com/CCareaga/chrislib@main
